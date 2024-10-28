@@ -33,7 +33,7 @@
     to {background-color: white;}
 }
 .link a{
-    
+    border-radius: 10px;
     margin-top: 50px;
     text-decoration: none;
     font-size: 25px;
